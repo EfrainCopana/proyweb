@@ -4,7 +4,7 @@ Proyecto hecho con **React** (Create React App).
 
 ---
 
-## 🛠️ Comandos útiles
+## Comandos útiles
 
 ### `npm install`
 
@@ -15,7 +15,7 @@ Instala todo lo necesario. **Correr solo la primera vez** o cuando agregues nuev
 Levanta el proyecto en modo desarrollo.  
 Abrí [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
-- Los cambios se actualizan automáticamente ✅
+- Los cambios se actualizan automáticamente
 - Los errores de lint se muestran en la consola
 
 ### `npm test`
@@ -42,7 +42,7 @@ En la práctica, **casi nunca lo vas a necesitar**.
 
 ---
 
-## 💻 Cómo correrlo localmente
+## Cómo correrlo localmente
 
 ### Requisitos
 
