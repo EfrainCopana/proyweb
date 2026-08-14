@@ -1,70 +1,59 @@
 # Proy-Web
 
-Proyecto desarrollado con **React** y **Create React App**.
+Proyecto hecho con **React** (Create React App).
 
 ---
 
-## 🚀 Scripts Disponibles
-
-En el directorio del proyecto, puedes ejecutar:
+## 🛠️ Comandos útiles
 
 ### `npm install`
 
-Instala todas las dependencias necesarias para el proyecto.  
-**Ejecutar solo la primera vez o cuando se agreguen nuevas dependencias.**
+Instala todo lo necesario. **Correr solo la primera vez** o cuando agregues nuevas librerías.
 
 ### `npm start`
 
-Ejecuta la aplicación en modo de desarrollo.\
-Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.
+Levanta el proyecto en modo desarrollo.  
+Abrí [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
-La página se recargará automáticamente cuando hagas cambios.\
-También podrás ver los errores de lint en la consola.
+- Los cambios se actualizan automáticamente ✅
+- Los errores de lint se muestran en la consola
 
 ### `npm test`
 
-Lanza el corredor de pruebas en modo interactivo.\
-Más información: [running tests](https://facebook.github.io/create-react-app/docs/running-tests)
+Ejecuta los tests en modo interactivo.  
+Más info: [aquí](https://facebook.github.io/create-react-app/docs/running-tests)
 
 ### `npm run build`
 
-Construye la aplicación para producción en la carpeta `build`.\
-Empaqueta correctamente React en modo producción y optimiza la compilación para obtener el mejor rendimiento.
-
-La compilación se minimiza y los nombres de archivo incluyen los hashes.\
-¡Tu aplicación está lista para ser desplegada!
+Genera la versión de producción en la carpeta `build`.  
+Archivos minimizados y con hash en los nombres para cacheo.
 
 ### `npm run deploy`
 
-Despliega la aplicación en **GitHub Pages**.\
-Visita: [https://EfrainCopana.github.io/proy-web](https://EfrainCopana.github.io/proy-web)
+Sube la app a **GitHub Pages**.  
+Mirala en vivo: [https://EfrainCopana.github.io/proy-web](https://EfrainCopana.github.io/proy-web)
 
 ### `npm run eject`
 
-**Nota: esta es una operación irreversible. Una vez que ejecutes `eject`, no podrás volver atrás.**
+⚠️ **Ojo con este comando: no hay vuelta atrás.**
 
-Si no estás satisfecho con la configuración predeterminada, puedes ejecutar `eject` en cualquier momento. Este comando eliminará la dependencia de construcción única de tu proyecto.
-
-En su lugar, copiará todos los archivos de configuración y las dependencias transitivas (webpack, Babel, ESLint, etc.) directamente en tu proyecto, dándote control total sobre ellos.
-
-No es necesario usar nunca `eject`. El conjunto de características seleccionadas es adecuado para implementaciones pequeñas y medianas.
+Te da control total sobre la configuración (webpack, Babel, ESLint, etc.), pero ya no podrás actualizar fácilmente.  
+En la práctica, **casi nunca lo vas a necesitar**.
 
 ---
 
-## Instalación paso a paso
+## 💻 Cómo correrlo localmente
 
-### Requisitos previos
+### Requisitos
 
-- Tener **Node.js** instalado.  
-  Descargar desde: [https://nodejs.org/](https://nodejs.org/) (versión LTS recomendada)
+- Tener **Node.js** instalado (versión LTS recomendada).  
+  Descargalo desde: [https://nodejs.org/](https://nodejs.org/)
 
-### Pasos para correr el proyecto
+### Pasos
 
-1. **Extraer el archivo RAR** en una carpeta de tu computadora.
-
-2. **Abrir la terminal** en la carpeta del proyecto.
-
-3. **Instalar dependencias** (solo la primera vez):
+1. Descomprimí el archivo RAR en la carpeta que quieras.
+2. Abrí la terminal en esa carpeta.
+3. Instalá las dependencias:
    ```bash
    npm install
    ```
