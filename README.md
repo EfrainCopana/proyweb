@@ -1,4 +1,4 @@
-# 📚 Proy-Web
+# Proy-Web
 
 Proyecto desarrollado con **React** y **Create React App**.
 
@@ -51,7 +51,7 @@ No es necesario usar nunca `eject`. El conjunto de características seleccionada
 
 ---
 
-## 📦 Instalación paso a paso (para compañeros)
+## Instalación paso a paso
 
 ### Requisitos previos
 
